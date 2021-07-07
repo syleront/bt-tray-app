@@ -7,3 +7,7 @@ very convenient if you often connect various Bluetooth devices.
 ![screenshot](assets/screenshot.png)
 
 This is a test project and is not intended for everyday use, because Java uses too much RAM for such a simple utility.
+
+
+### Download
+See [releases](https://github.com/syleront/bt-tray-app/releases) page
